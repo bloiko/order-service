@@ -1,0 +1,20 @@
+Order was received and handled: Order{username='loiko1', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko2', item=Item{type='LIQUIDS', volumeOrNumber='10000000'}, orderTotal=1}
+Order total greater than 100 – the order should be rejected;
+Order was received and handled: Order{username='loiko4', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko5', item=Item{type='LIQUIDS', volumeOrNumber='1212121'}, orderTotal=1}
+Liquid volume greater than 20 – the order is rejected; Order{username='loiko6', item=Item{type='LIQUIDS', volumeOrNumber='342442'}, orderTotal=1}
+Order was received and handled: Order{username='loiko10', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko11', item=Item{type='COUNTABLE_ITEM', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko12', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko112', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='loiko113', item=Item{type='COUNTABLE_ITEM', volumeOrNumber='2'}, orderTotal=2}
+Order was received and handled: Order{username='loiko1212', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='dsfsdf', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='ваіа', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='олло', item=Item{type='COUNTABLE_ITEM', volumeOrNumber='100'}, orderTotal=1}
+Order was received and handled: Order{username='loiko', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=12}
+Order was received and handled: Order{username='рор', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='jhkk', item=Item{type='COUNTABLE_ITEM', volumeOrNumber='1'}, orderTotal=2}
+Order was received and handled: Order{username='аваі', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=1}
+Order was received and handled: Order{username='іа', item=Item{type='LIQUIDS', volumeOrNumber='1'}, orderTotal=2}
